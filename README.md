@@ -1,2 +1,2 @@
-WIndowsResources
+WindowsResources
 ================
